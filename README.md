@@ -12,7 +12,7 @@ gcc gporter.c -ogporter
 ## Install
 sudo cp gporter /usr/bin/
 
-## PO format
+## The POI format
 You'll find a simple description in POI-Format.ods
 
 ## Usage
