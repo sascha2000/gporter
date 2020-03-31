@@ -1,4 +1,4 @@
-# gporter
+# GPORTER GP-102
 Setting and reading POIs on a GPORTER GP-102 GPS device for geocaching or other purposes.
 
 ## Intention
@@ -47,6 +47,12 @@ gporter  -N48.755319 -E9.188723 -o010 -shouse -d5678 -t1234
 To read a coordinate enter enter in a shell (bash) "cd /media/username/CANMORE/GP-102/POIs. Type:
 
 gporter -r 001
+
+This may output a coordinate like:
+
+N48.712320 E9.306870
+
+Enter this one in google maps to see where it is.
 
 ## test-coordinates 
 In the folder gprter_files you'll find some test coordinates.
