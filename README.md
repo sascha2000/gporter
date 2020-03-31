@@ -1,5 +1,5 @@
 # gporter
-Setting and reading POIs on a GPORTER GP-102 GPS device for geocaching or other purposes
+Setting and reading POIs on a GPORTER GP-102 GPS device for geocaching or other purposes.
 
 ## Intention
 I bought GPORTER GP-102 device for geocaching. Sadly the included windows software does not allow to set POIs. So the device became pretty useless for geocaching. 
@@ -13,7 +13,7 @@ gcc gporter.c -ogporter
 sudo cp gporter /usr/bin/
 
 ## The POI format
-You'll find a simple description in POI-Format.ods
+You'll find a simple description in "POI-Format.ods".
 
 ## Usage
 On my linux machine when the GPORTER GP-102 is connected it will appear in "/media/"username"/CANMORE/GP-102". The place will be different on your machine.
@@ -49,7 +49,7 @@ To read a coordinate enter enter in a shell (bash) "cd /media/username/CANMORE/G
 gporter -r 001
 
 ## test-coordinates 
-In the folder gprter_files you'll find some test coordinates
+In the folder gprter_files you'll find some test coordinates.
 
 
 
