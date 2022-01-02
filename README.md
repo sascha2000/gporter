@@ -54,7 +54,7 @@ N48.712320 E9.306870
 
 Enter this one in google maps to see where it is.
 
-## Zest-coordinates 
+## Test-coordinates 
 In the folder gporter_files you'll find some test coordinates.
 
 
